@@ -37,6 +37,8 @@ The Maccor file structure contains many fields:
 
 # Analysis Data
 
+## Data Dictionary
+
 The notebook cleans the data and produces a data table with the following data:
 
 * Time (minutes)
@@ -44,3 +46,11 @@ The notebook cleans the data and produces a data table with the following data:
 * Battery Voltage (V)
 * Battery Model
 * Unit Number
+
+## Discharge Curves
+
+![DischargeCurves](./Images/DischargeCurves.png)
+
+## SOC Curves
+
+![SOC Curves](./Images/SOCCurves.png)
