@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ziggle/BatteryDischargeQuickLookReport">
-    <img src="Images/components_Coin-cells.jpg" alt="Logo" width="511" height="363">
+    <img src="../Images/components_Coin-cells.jpg" alt="Logo" width="511" height="363">
   </a>
 
 <h1 align="center">Lithium-Ion Coin Cell Test Data</h1>
@@ -12,7 +12,7 @@
     I am analyzing battery discharge data using Python and Excel to illustrate how to perform the analysis.
     <br />
     <br />
-    <a href="https://www.microbattery.com/coin-cells">Image Source</a>
+    <a href="https://en.wikipedia.org/wiki/Button_cell">Image Source</a>
     ·
     <a href="https://en.wikipedia.org/wiki/Button_cell">Wikipedia Coin Cell Discussion</a>
   </p>
