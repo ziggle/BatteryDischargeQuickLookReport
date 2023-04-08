@@ -1,8 +1,28 @@
-# Battery Test Results
+<div id="top"></div>
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/ziggle/BatteryDischargeQuickLookReport">
+    <img src="Images/components_Coin-cells.jpg" alt="Logo" width="511" height="363">
+  </a>
+
+<h1 align="center">Lithium-Ion Coin Cell Test Data</h1>
+
+  <p align="center">
+    I am analyzing battery discharge data using Python and Excel to illustrate how to perform the analysis.
+    <br />
+    <br />
+    <a href="https://www.microbattery.com/coin-cells">Image Source</a>
+    ·
+    <a href="https://en.wikipedia.org/wiki/Button_cell">Wikipedia Coin Cell Discussion</a>
+  </p>
+</div>
+
+## Overview
 
 This file contains results from capacity testing of 10.5 mA-hr (nominal) Lithium-ion coin cells on the Maccor battery tester
 
-# Test Data Dictionary
+## Test Data Dictionary
 
 There are many columns in the data, but only the following are used in the analysis.
 
