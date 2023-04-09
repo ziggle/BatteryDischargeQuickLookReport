@@ -3,7 +3,8 @@
 <br />
 <div align="center">
   <a href="https://github.com/ziggle/BatteryDischargeQuickLookReport">
-    <img src="../Images/components_Coin-cells.jpg" alt="Logo" width="511" height="363">
+    <img src="{{ asset('../Images/components_Coin-cells.jpg') }}" alt="Logo" width="511" height="363">
+
   </a>
 
 <h1 align="center">Lithium-Ion Coin Cell Test Data</h1>
