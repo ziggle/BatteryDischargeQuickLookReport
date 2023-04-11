@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ziggle/BatteryDischargeQuickLookReport">
-    <img src="{{ asset('../Images/components_Coin-cells.jpg') }}" alt="Logo" width="511" height="363">
+    <img src="../Images/components_Coin-cells.jpg" alt="Logo" width="511" height="363">
 
   </a>
 
@@ -21,7 +21,9 @@
 
 ## Overview
 
-This file contains results from capacity testing of 10.5 mA-hr (nominal) Lithium-ion coin cells on the Maccor battery tester
+This file contains results from capacity testing of 10.5 mA-hr (nominal) Lithium-ion coin cells on the Maccor battery tester. My initial test work was focused on simple capacity testing. I also plan to begin cycle testing with simulated customer profiles.
+
+HW Engineering has requested that I also begin characterizing the behavior of the AC impedance versus cycle number.
 
 ## Test Data Dictionary
 
