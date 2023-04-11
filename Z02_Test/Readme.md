@@ -23,7 +23,11 @@
 
 This file contains results from capacity testing of 10.5 mA-hr (nominal) Lithium-ion coin cells on the Maccor battery tester. My initial test work was focused on simple capacity testing. I also plan to begin cycle testing with simulated customer profiles.
 
-HW Engineering has requested that I also begin characterizing the behavior of the AC impedance versus cycle number.
+HW Engineering has requested that I also begin characterizing the behavior of the AC impedance versus cycle number. The battery impedance is an important charactristic with respect to battery's surge handling capabiities. Historically, HW Engineering has measured it, but they have requested that I measure during my testing since I have a setup that can easily add this measurement.
+
+## Fixturing
+
+My key challenge is building a fixture for testing a batch of batteries. The batteries are so small that I cannot use a standard fixture. I have some thinking to do about this.
 
 ## Test Data Dictionary
 
