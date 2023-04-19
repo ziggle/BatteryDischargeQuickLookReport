@@ -10,7 +10,7 @@
 <h1 align="center">Lithium-Ion Coin Cell Test Data</h1>
 
   <p align="center">
-    I am analyzing battery discharge data using Python and Excel to illustrate how to perform the analysis.
+    I am analyzing battery discharge data using PytTc8-iw9Y!Cylhon and Excel to illustrate how to perform the analysis.
     <br />
     <br />
     <a href="https://en.wikipedia.org/wiki/Button_cell">Image Source</a>
@@ -30,6 +30,13 @@ The most difficult test plan to develop will look at how batteries age against d
 ## Fixturing
 
 My key challenge is building a fixture for testing a batch of batteries. The batteries are so small that I cannot use a standard fixture. I have some thinking to do about this.
+
+## Test Design
+
+### Factors
+
+* Cycle number
+
 
 ## Test Data Dictionary
 
