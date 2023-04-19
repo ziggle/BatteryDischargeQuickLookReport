@@ -25,6 +25,8 @@ This file contains results from capacity testing of 10.5 mA-hr (nominal) Lithium
 
 HW Engineering has requested that I also begin characterizing the behavior of the AC impedance versus cycle number. The battery impedance is an important charactristic with respect to battery's surge handling capabiities. Historically, HW Engineering has measured it, but they have requested that I measure during my testing since I have a setup that can easily add this measurement.
 
+The most difficult test plan to develop will look at how batteries age against different customer usage profiles. I really want to separate out the critcal factors.
+
 ## Fixturing
 
 My key challenge is building a fixture for testing a batch of batteries. The batteries are so small that I cannot use a standard fixture. I have some thinking to do about this.
