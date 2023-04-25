@@ -27,6 +27,11 @@ HW Engineering has requested that I also begin characterizing the behavior of th
 
 The most difficult test plan to develop will look at how batteries age against different customer usage profiles. I really want to separate out the critcal factors.
 
+- cycles
+- hold time at high voltage
+- charge method
+- discharge rates (holding mean current)
+
 ## Fixturing
 
 My key challenge is building a fixture for testing a batch of batteries. The batteries are so small that I cannot use a standard fixture. I have some thinking to do about this.
