@@ -32,6 +32,13 @@ The most difficult test plan to develop will look at how batteries age against d
 - charge method
 - discharge rates (holding mean current)
 
+What would be a good breakdown?
+
+- 0 or 5 hours hold time
+- 4.2 V vs 4.35 V (4.35 V is the highest possible HPM10 charge voltage)
+- Discharge rate nominal and 2x nominal
+- Pure 24 hour cycles
+
 ## Fixturing
 
 My key challenge is building a fixture for testing a batch of batteries. The batteries are so small that I cannot use a standard fixture. I have some thinking to do about this.
